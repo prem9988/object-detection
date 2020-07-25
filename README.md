@@ -1,2 +1,2 @@
-# object_detection
+# object-detection
 My first repository on GITHUB
